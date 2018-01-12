@@ -8,7 +8,7 @@
 
 
 ### Content ###
-* vue_bulma.html:
+* vue_bulma:
     * simple page on:
       * bulma.css
       * vue.js 
